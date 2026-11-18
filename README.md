@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student
+- 🎓 Computer science Student
 - 🤖 Interested in Machine Learning & Deep Learning
 - 🐍 Working with Python and its ML ecosystem
 - 🧠 Exploring neural networks and CNN architectures
