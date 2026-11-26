@@ -63,15 +63,16 @@
   </g>
 
   <!-- Name -->
-  <g filter="url(#glow)">
-    <text x="95" y="140" font-family="Arial, sans-serif" font-size="66" font-weight="bold" letter-spacing="2" fill="url(#blue)">
-      Farhan
-    </text>
+  <!-- Name -->
+<g filter="url(#glow)">
+  <text x="95" y="140" font-family="Arial, sans-serif" font-size="66" font-weight="bold" letter-spacing="2" fill="url(#blue)">
+    <tspan fill-opacity="0">F<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.05;0.92"/></tspan><tspan fill-opacity="0">a<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.09;0.88"/></tspan><tspan fill-opacity="0">r<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.13;0.84"/></tspan><tspan fill-opacity="0">h<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.17;0.80"/></tspan><tspan fill-opacity="0">a<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.21;0.76"/></tspan><tspan fill-opacity="0">n<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.25;0.72"/></tspan>
+  </text>
 
-    <text x="95" y="205" font-family="Arial, sans-serif" font-size="45" font-weight="bold" letter-spacing="5" fill="#D6F4FF">
-      SHAYAN
-    </text>
-  </g>
+  <text x="95" y="205" font-family="Arial, sans-serif" font-size="45" font-weight="bold" letter-spacing="5" fill="#D6F4FF">
+    <tspan fill-opacity="0">S<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.30;0.75"/></tspan><tspan fill-opacity="0">H<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.34;0.71"/></tspan><tspan fill-opacity="0">A<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.38;0.67"/></tspan><tspan fill-opacity="0">Y<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.42;0.63"/></tspan><tspan fill-opacity="0">A<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.46;0.59"/></tspan><tspan fill-opacity="0">N<animate attributeName="fill-opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.50;0.55"/></tspan>
+  </text>
+</g>
 
   <!-- Underline -->
   <path d="M95 225 H400" stroke="#168BFF" stroke-width="2" filter="url(#glow)">
