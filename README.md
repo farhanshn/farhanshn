@@ -12,9 +12,6 @@
 
 <img src="tech_stack.svg" width="100%" alt="Animated Tech Stack Dashboard"/>
 
----
-
-<!-- ============================================================
   PROJECTS + CERTIFICATIONS
   Edit the text inside featured_projects.svg and certifications.svg
   (they are plain text), then delete the "<!--" line and the "-->" line
@@ -27,7 +24,6 @@
 ---
 
 <img src="certifications.svg" width="100%" alt="Certifications and Leadership"/>
-============================================================ -->
 
 ## 📈 CONTRIBUTION ANALYTICS
 
