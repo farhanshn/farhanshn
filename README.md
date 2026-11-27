@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="robot_name.svg" width="100%" alt="Farhan Shayan - Neon AI Robot"/>
-</div>
-
----
-
-<div align="center">
-  <img src="terminal.svg" width="100%" alt="About Farhan"/>
+  <img src="profile_header.svg" width="100%" alt="Farhan Shayan - Machine Learning // Deep Learning"/>
 </div>
 
 ---
