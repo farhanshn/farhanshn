@@ -10,20 +10,9 @@
 
 ---
 
-<img src="tech_stack.svg" width="100%" alt="Animated Tech Stack Dashboard"/>
-
-  PROJECTS + CERTIFICATIONS
-  Edit the text inside featured_projects.svg and certifications.svg
-  (they are plain text), then delete the "<!--" line and the "-->" line
-  around the block below to show them.
-
-<p align="center">
-  <img src="featured_projects.svg" width="100%" alt="Featured Projects"/>
-</p>
-
----
-
-<img src="certifications.svg" width="100%" alt="Certifications and Leadership"/>
+<div align="center">
+  <img src="portfolio_showcase.svg" width="100%" alt="Certifications, Featured Projects and Tech Stack"/>
+</div>
 
 ## 📈 CONTRIBUTION ANALYTICS
 
