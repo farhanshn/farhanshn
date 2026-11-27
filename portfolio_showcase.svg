@@ -1,0 +1,432 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650" role="img" aria-label="Certifications, featured projects and tech stack" xmlns:c2pa="http://c2pa.org/manifest">
+  <!-- Slide 1: certifications__1_.svg -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01852;0.31111;0.33333;1" dur="27s" repeatCount="indefinite"/>
+    <svg class="c_root" x="40" y="90" width="820" height="470" viewBox="0 0 820 470">
+  <defs>
+    <linearGradient id="c_bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#000000"></stop>
+      <stop offset="1" stop-color="#000000"></stop>
+    </linearGradient>
+    <linearGradient id="c_accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0877C9"></stop>
+      <stop offset="1" stop-color="#42D9FF"></stop>
+    </linearGradient>
+    <style>
+      :where(.c_root) text{ font-family: 'Courier New', monospace; fill: #E6F4FF; }
+      .c_muted { fill: #8BAAC8; }
+      .c_card { fill: #0B1D35; stroke: #17466C; stroke-width: 1.2; }
+      .c_title { font-size: 13px; font-weight: bold; }
+      .c_issuer { font-size: 10px; fill: #65CFFF; letter-spacing: 1px; }
+      .c_tag { font-size: 9px; fill: #8BAAC8; letter-spacing: 1px; }
+      .c_glow { fill: none; stroke: #35BFFF; stroke-width: 1.5; opacity: .65; }
+      .c_dot { fill: #42D9FF; }
+      
+      
+      .c_pulse { animation: c_pulse 2s ease-in-out infinite; }
+      @keyframes c_pulse { 50% { opacity: .35; } }
+      .c_line { stroke: #17466C; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect width="820" height="470" rx="8" fill="url(#c_bg)"></rect>
+  <path d="M18 55 H802" stroke="url(#c_accent)" stroke-width="1.5"></path>
+  <text x="22" y="31" font-size="17" font-weight="bold" letter-spacing="2">CERTIFICATIONS &amp; LEADERSHIP</text>
+  <text x="800" y="31" text-anchor="end" class="c_muted" font-size="10">[ 00 ACHIEVEMENTS ]</text>
+  <circle cx="790" cy="17" r="3" class="c_dot c_pulse"></circle>
+
+  <!-- Card 1 -->
+  <g class="c_cardgroup"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01111;0.04074;1" dur="27s" repeatCount="indefinite"/>
+    <rect class="c_card" x="12" y="72" width="254" height="112" rx="5"></rect>
+    <path class="c_glow" d="M12 96 V77 Q12 72 17 72 H42"></path>
+    <text x="29" y="96" class="c_tag">01 / CERTIFICATION</text>
+    <text x="29" y="126" class="c_title">Your Certification Name</text>
+    <line x1="29" y1="145" x2="249" y2="145" class="c_line"></line>
+    <text x="29" y="165" class="c_issuer">ISSUER</text>
+    <circle cx="247" cy="91" r="3" class="c_dot"></circle>
+  </g>
+
+  <!-- Card 2 -->
+  <g class="c_cardgroup"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01481;0.04444;1" dur="27s" repeatCount="indefinite"/>
+    <rect class="c_card" x="283" y="72" width="254" height="112" rx="5"></rect>
+    <path class="c_glow" d="M283 96 V77 Q283 72 288 72 H313"></path>
+    <text x="300" y="96" class="c_tag">02 / CERTIFICATION</text>
+    <text x="300" y="126" class="c_title">Your Certification Name</text>
+    <line x1="300" y1="145" x2="520" y2="145" class="c_line"></line>
+    <text x="300" y="165" class="c_issuer">ISSUER</text>
+    <circle cx="518" cy="91" r="3" class="c_dot"></circle>
+  </g>
+
+  <!-- Card 3 -->
+  <g class="c_cardgroup"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01852;0.04815;1" dur="27s" repeatCount="indefinite"/>
+    <rect class="c_card" x="554" y="72" width="254" height="112" rx="5"></rect>
+    <path class="c_glow" d="M554 96 V77 Q554 72 559 72 H584"></path>
+    <text x="571" y="96" class="c_tag">03 / CERTIFICATION</text>
+    <text x="571" y="120" class="c_title">Your Certification</text>
+    <text x="571" y="138" class="c_title">Name Here</text>
+    <line x1="571" y1="151" x2="791" y2="151" class="c_line"></line>
+    <text x="571" y="170" class="c_issuer">ISSUER</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g class="c_cardgroup"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02222;0.05185;1" dur="27s" repeatCount="indefinite"/>
+    <rect class="c_card" x="12" y="202" width="254" height="112" rx="5"></rect>
+    <path class="c_glow" d="M12 226 V207 Q12 202 17 202 H42"></path>
+    <text x="29" y="226" class="c_tag">04 / CERTIFICATION</text>
+    <text x="29" y="250" class="c_title">Your Certification</text>
+    <text x="29" y="268" class="c_title">Name Here</text>
+    <line x1="29" y1="281" x2="249" y2="281" class="c_line"></line>
+    <text x="29" y="300" class="c_issuer">ISSUER</text>
+  </g>
+
+  <!-- Card 5 -->
+  <g class="c_cardgroup"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02593;0.05556;1" dur="27s" repeatCount="indefinite"/>
+    <rect class="c_card" x="283" y="202" width="254" height="112" rx="5"></rect>
+    <path class="c_glow" d="M283 226 V207 Q283 202 288 202 H313"></path>
+    <text x="300" y="226" class="c_tag">05 / CERTIFICATION</text>
+    <text x="300" y="256" class="c_title">Your Certification Name</text>
+    <line x1="300" y1="281" x2="520" y2="281" class="c_line"></line>
+    <text x="300" y="300" class="c_issuer">ISSUER</text>
+  </g>
+
+  <!-- Card 6 -->
+  <g class="c_cardgroup"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02963;0.05926;1" dur="27s" repeatCount="indefinite"/>
+    <rect class="c_card" x="554" y="202" width="254" height="112" rx="5"></rect>
+    <path class="c_glow" d="M554 226 V207 Q554 202 559 202 H584"></path>
+    <text x="571" y="226" class="c_tag">06 / CERTIFICATION</text>
+    <text x="571" y="256" class="c_title">Your Certification</text>
+    <text x="571" y="274" class="c_title">Name Here</text>
+    <line x1="571" y1="281" x2="791" y2="281" class="c_line"></line>
+    <text x="571" y="300" class="c_issuer">ISSUER</text>
+  </g>
+
+  <!-- Card 7 -->
+  <g class="c_cardgroup"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03333;0.06296;1" dur="27s" repeatCount="indefinite"/>
+    <rect class="c_card" x="283" y="332" width="254" height="112" rx="5"></rect>
+    <path class="c_glow" d="M283 356 V337 Q283 332 288 332 H313"></path>
+    <text x="300" y="356" class="c_tag">07 / CERTIFICATION</text>
+    <text x="300" y="380" class="c_title">Your Certification</text>
+    <text x="300" y="398" class="c_title">Name Here</text>
+    <line x1="300" y1="411" x2="520" y2="411" class="c_line"></line>
+    <text x="300" y="430" class="c_issuer">ISSUER</text>
+  </g>
+
+  <text x="22" y="462" class="c_muted" font-size="9" letter-spacing="1">CONTINUOUS LEARNING  //  BUILDING THE FUTURE</text>
+  <text x="798" y="462" text-anchor="end" fill="#42D9FF" font-size="9">F.S. 2026</text>
+</svg>
+  </g>
+  <!-- Slide 2: featured_projects__2_.svg -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33333;0.35185;0.64444;0.66667;1" dur="27s" repeatCount="indefinite"/>
+    <svg class="f_root" x="0" y="0" width="900" height="650" viewBox="0 0 900 650">
+<defs>
+  <linearGradient id="f_bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#000000"></stop>
+    <stop offset="1" stop-color="#000000"></stop>
+  </linearGradient>
+  <linearGradient id="f_blue" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#0877C9"></stop>
+    <stop offset="1" stop-color="#42D9FF"></stop>
+  </linearGradient>
+  <pattern id="f_grid" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M30 0H0V30" fill="none" stroke="#1A4971" stroke-width=".6" opacity=".4"></path>
+  </pattern>
+  <filter id="f_glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"></feGaussianBlur>
+    <feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+  </filter>
+  <style>
+    :where(.f_root) text{font-family:'Courier New',monospace;fill:#E5F4FF}
+    .f_muted {fill:#799DBD}
+    .f_cyan {fill:#42D9FF}
+    .f_card {fill:#091A30;stroke:#17466C;stroke-width:1.2}
+    .f_heading {font-size:13px;font-weight:bold;fill:#65CFFF}
+    .f_desc {font-size:11px;fill:#B5CBE0}
+    .f_tag {font-size:9px;fill:#42D9FF}
+    .f_small {font-size:9px;letter-spacing:1px}
+    
+    
+    .f_border {fill:none;stroke:#42D9FF;stroke-width:1.4;stroke-dasharray:50 500;animation:f_borderMove 5s linear infinite;filter:url(#f_glow)}
+    @keyframes f_borderMove {to{stroke-dashoffset:-550}}
+    .f_pulse {animation:f_pulse 2s ease-in-out infinite}
+    @keyframes f_pulse {50%{opacity:.25}}
+    .f_scan {animation:f_scan 6s linear infinite}
+    @keyframes f_scan {from{transform:translateY(0)}to{transform:translateY(600px)}}
+    .f_dot {fill:#42D9FF}
+  </style>
+</defs>
+
+<!-- Background -->
+<rect width="900" height="650" rx="10" fill="url(#f_bg)"></rect>
+<rect width="900" height="650" rx="10" fill="url(#f_grid)"></rect>
+
+<!-- Header -->
+<text x="26" y="37" font-size="20" font-weight="bold" letter-spacing="2">FEATURED_PROJECTS.exe</text>
+<text x="874" y="36" text-anchor="end" class="f_small f_muted">PORTFOLIO // 2026</text>
+<path d="M22 58H878" stroke="url(#f_blue)" stroke-width="1.5" filter="url(#f_glow)"></path>
+<circle cx="862" cy="76" r="3" class="f_dot f_pulse"></circle>
+<text x="850" y="80" text-anchor="end" class="f_small f_cyan">6 PROJECTS LOADED</text>
+<text x="26" y="80" class="f_small f_muted">EXPLORING MACHINE LEARNING · DEEP LEARNING · COMPUTER VISION</text>
+
+<!-- Project 1 -->
+<g class="f_project"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3463;0.37593;1" dur="27s" repeatCount="indefinite"/>
+  <rect class="f_card" x="22" y="100" width="276" height="225" rx="7"></rect>
+  <rect class="f_border" x="22" y="100" width="276" height="225" rx="7"></rect>
+  <text x="40" y="126" class="f_small f_muted">01 / DEEP LEARNING</text>
+  <text x="40" y="159" font-size="25">◉</text>
+  <text x="76" y="155" class="f_heading">YOUR PROJECT</text>
+  <text x="76" y="173" class="f_heading">NAME HERE</text>
+  <path d="M40 187H280" stroke="#17466C"></path>
+  <text x="40" y="210" class="f_desc">Describe what this project</text>
+  <text x="40" y="227" class="f_desc">does in one or two lines,</text>
+  <text x="40" y="244" class="f_desc">and the result you got.</text>
+  <text x="40" y="278" class="f_tag">TENSORFLOW · CNN</text>
+  <text x="40" y="302" class="f_small f_cyan">GITHUB / YOUR-REPO-NAME ↗</text>
+</g>
+
+<!-- Project 2 -->
+<g class="f_project"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35185;0.38148;1" dur="27s" repeatCount="indefinite"/>
+  <rect class="f_card" x="312" y="100" width="276" height="225" rx="7"></rect>
+  <rect class="f_border" x="312" y="100" width="276" height="225" rx="7"></rect>
+  <text x="330" y="126" class="f_small f_muted">02 / MACHINE LEARNING</text>
+  <text x="330" y="159" font-size="25">⌘</text>
+  <text x="366" y="155" class="f_heading">YOUR PROJECT</text>
+  <text x="366" y="173" class="f_heading">NAME HERE</text>
+  <path d="M330 187H570" stroke="#17466C"></path>
+  <text x="330" y="210" class="f_desc">Describe what this project</text>
+  <text x="330" y="227" class="f_desc">does in one or two lines,</text>
+  <text x="330" y="244" class="f_desc">and the result you got.</text>
+  <text x="330" y="278" class="f_tag">PYTHON · SCIKIT-LEARN</text>
+  <text x="330" y="302" class="f_small f_cyan">GITHUB / YOUR-REPO-NAME ↗</text>
+</g>
+
+<!-- Project 3 -->
+<g class="f_project"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35741;0.38704;1" dur="27s" repeatCount="indefinite"/>
+  <rect class="f_card" x="602" y="100" width="276" height="225" rx="7"></rect>
+  <rect class="f_border" x="602" y="100" width="276" height="225" rx="7"></rect>
+  <text x="620" y="126" class="f_small f_muted">03 / DATA SCIENCE</text>
+  <text x="620" y="159" font-size="25">▥</text>
+  <text x="656" y="155" class="f_heading">YOUR PROJECT</text>
+  <text x="656" y="173" class="f_heading">NAME HERE</text>
+  <path d="M620 187H860" stroke="#17466C"></path>
+  <text x="620" y="210" class="f_desc">Describe what this project</text>
+  <text x="620" y="227" class="f_desc">does in one or two lines,</text>
+  <text x="620" y="244" class="f_desc">and the result you got.</text>
+  <text x="620" y="278" class="f_tag">PYTHON · PANDAS · XGBOOST</text>
+  <text x="620" y="302" class="f_small f_cyan">GITHUB / YOUR-REPO-NAME ↗</text>
+</g>
+
+<!-- Project 4 -->
+<g class="f_project"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.36296;0.39259;1" dur="27s" repeatCount="indefinite"/>
+  <rect class="f_card" x="22" y="345" width="276" height="225" rx="7"></rect>
+  <rect class="f_border" x="22" y="345" width="276" height="225" rx="7"></rect>
+  <text x="40" y="371" class="f_small f_muted">04 / MACHINE LEARNING</text>
+  <text x="40" y="404" font-size="25">▤</text>
+  <text x="76" y="400" class="f_heading">YOUR PROJECT</text>
+  <text x="76" y="418" class="f_heading">NAME HERE</text>
+  <path d="M40 432H280" stroke="#17466C"></path>
+  <text x="40" y="455" class="f_desc">Describe what this project</text>
+  <text x="40" y="472" class="f_desc">does in one or two lines,</text>
+  <text x="40" y="489" class="f_desc">and the result you got.</text>
+  <text x="40" y="523" class="f_tag">PYTHON · MACHINE LEARNING</text>
+  <text x="40" y="547" class="f_small f_cyan">GITHUB / YOUR-REPO-NAME ↗</text>
+</g>
+
+<!-- Project 5 -->
+<g class="f_project"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.36852;0.39815;1" dur="27s" repeatCount="indefinite"/>
+  <rect class="f_card" x="312" y="345" width="276" height="225" rx="7"></rect>
+  <rect class="f_border" x="312" y="345" width="276" height="225" rx="7"></rect>
+  <text x="330" y="371" class="f_small f_muted">05 / COMPUTER VISION</text>
+  <text x="330" y="404" font-size="25">◌</text>
+  <text x="366" y="400" class="f_heading">YOUR PROJECT</text>
+  <text x="366" y="418" class="f_heading">NAME HERE</text>
+  <path d="M330 432H570" stroke="#17466C"></path>
+  <text x="330" y="455" class="f_desc">Describe what this project</text>
+  <text x="330" y="472" class="f_desc">does in one or two lines,</text>
+  <text x="330" y="489" class="f_desc">and the result you got.</text>
+  <text x="330" y="523" class="f_tag">PYTHON · DATA SCIENCE</text>
+  <text x="330" y="547" class="f_small f_cyan">GITHUB / YOUR-REPO-NAME ↗</text>
+</g>
+
+<!-- Project 6 -->
+<g class="f_project"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37407;0.4037;1" dur="27s" repeatCount="indefinite"/>
+  <rect class="f_card" x="602" y="345" width="276" height="225" rx="7"></rect>
+  <rect class="f_border" x="602" y="345" width="276" height="225" rx="7"></rect>
+  <text x="620" y="371" class="f_small f_muted">06 / PREDICTIVE MODELING</text>
+  <text x="620" y="404" font-size="25">▣</text>
+  <text x="656" y="400" class="f_heading">YOUR PROJECT</text>
+  <text x="656" y="418" class="f_heading">NAME HERE</text>
+  <path d="M620 432H860" stroke="#17466C"></path>
+  <text x="620" y="455" class="f_desc">Describe what this project</text>
+  <text x="620" y="472" class="f_desc">does in one or two lines,</text>
+  <text x="620" y="489" class="f_desc">and the result you got.</text>
+  <text x="620" y="523" class="f_tag">PYTHON · DEEP LEARNING</text>
+  <text x="620" y="547" class="f_small f_cyan">GITHUB / YOUR-REPO-NAME ↗</text>
+</g>
+
+<!-- Footer -->
+<path d="M22 592H878" stroke="#17466C"></path>
+<text x="26" y="616" class="f_small f_muted">THINK // EXPERIMENT // BUILD // INNOVATE</text>
+<text x="874" y="616" text-anchor="end" class="f_small f_cyan">PROJECTS STATUS: ACTIVE</text>
+<circle cx="862" cy="636" r="2.5" class="f_dot f_pulse"></circle>
+
+<!-- Scan line -->
+<rect x="0" y="0" width="900" height="2" fill="#42D9FF" opacity=".12" class="f_scan"></rect>
+</svg>
+  </g>
+  <!-- Slide 3: tech_stack__1_.svg -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66667;0.68519;0.97778;1" dur="27s" repeatCount="indefinite"/>
+    <svg class="t_root" x="40" y="80" width="820" height="490" viewBox="0 0 820 490">
+<defs>
+  <linearGradient id="t_bg" x2="1" y2="1">
+    <stop stop-color="#000000"></stop>
+    <stop offset="1" stop-color="#000000"></stop>
+  </linearGradient>
+  <linearGradient id="t_neon" x2="1">
+    <stop stop-color="#0877C9"></stop>
+    <stop offset="1" stop-color="#42D9FF"></stop>
+  </linearGradient>
+  <pattern id="t_grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#1A4971" stroke-width=".6" opacity=".45"></path>
+  </pattern>
+  <filter id="t_glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"></feGaussianBlur>
+    <feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+  </filter>
+  <style>
+    :where(.t_root) text{font-family:'Courier New',monospace;fill:#E5F4FF}
+    .t_muted{fill:#799DBD}
+    .t_cyan{fill:#42D9FF}
+    .t_category{font-size:11px;font-weight:bold;letter-spacing:1px;fill:#63CFFF}
+    .t_tech{font-size:13px}
+    .t_small{font-size:9px;letter-spacing:1px}
+    .t_card{fill:#091A30;stroke:#18517B;stroke-width:1}
+    .t_edge{fill:none;stroke:#42D9FF;stroke-width:1.4;filter:url(#t_glow)}
+    
+    
+    .t_pulse{animation:t_pulse 2s ease-in-out infinite}
+    @keyframes t_pulse{50%{opacity:.25}}
+    .t_scan{animation:t_scan 5s linear infinite}
+    @keyframes t_scan{from{transform:translateY(0)}to{transform:translateY(420px)}}
+    .t_blink{animation:t_blink 1s steps(2) infinite}
+    @keyframes t_blink{50%{opacity:0}}
+    .t_flow{stroke-dasharray:5 7;animation:t_flow 8s linear infinite}
+    @keyframes t_flow{to{stroke-dashoffset:-120}}
+    .t_bar{transform-box:fill-box;transform-origin:left;animation:t_load 3s ease-in-out infinite}
+    @keyframes t_load{0%{transform:scaleX(0)}65%,100%{transform:scaleX(1)}}
+  </style>
+</defs>
+
+<!-- Background -->
+<rect width="820" height="490" rx="10" fill="url(#t_bg)"></rect>
+<rect width="820" height="490" rx="10" fill="url(#t_grid)"></rect>
+<rect x="0" y="0" width="820" height="490" fill="#000000" opacity=".12"></rect>
+<path d="M0 110H820" stroke="#1B4D76" opacity=".4"></path>
+<path d="M0 430H820" stroke="#1B4D76" opacity=".4"></path>
+
+<!-- Header -->
+<text x="24" y="34" font-size="18" font-weight="bold" letter-spacing="2">TECH_STACK.exe</text>
+<text x="795" y="33" text-anchor="end" class="t_small t_muted">SYSTEM // TOOLKIT</text>
+<circle cx="782" cy="54" r="3" class="t_cyan t_pulse"></circle>
+<text x="795" y="57" text-anchor="end" class="t_small t_cyan">ONLINE</text>
+<path d="M20 70H800" stroke="url(#t_neon)" stroke-width="1.5" filter="url(#t_glow)"></path>
+
+<!-- Terminal -->
+<rect x="20" y="84" width="780" height="48" rx="4" fill="#04101F" stroke="#17466C"></rect>
+<circle cx="36" cy="99" r="3" fill="#42D9FF"></circle>
+<circle cx="47" cy="99" r="3" fill="#1C79B5"></circle>
+<circle cx="58" cy="99" r="3" fill="#17466C"></circle>
+<text x="75" y="103" class="t_small t_muted">INITIALIZING DEVELOPER ENVIRONMENT...</text>
+<text x="36" y="120" class="t_small t_cyan">[ READY ] Python · Machine Learning · Deep Learning · AI</text>
+<rect x="451" y="110" width="6" height="12" fill="#42D9FF" class="t_blink"></rect>
+
+<!-- Card 1 -->
+<g class="t_item"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.68148;0.71111;1" dur="27s" repeatCount="indefinite"/>
+<rect class="t_card" x="20" y="148" width="250" height="112" rx="5"></rect>
+<path class="t_edge" d="M20 176V153Q20 148 25 148H50"></path>
+<text x="36" y="171" class="t_small t_muted">01 / CODE</text>
+<text x="36" y="195" class="t_category">PROGRAMMING LANGUAGES</text>
+<path d="M36 205H254" stroke="#17466C"></path>
+<text x="36" y="229" class="t_tech">Python</text>
+<text x="36" y="247" class="t_tech">Jupyter Notebook</text>
+<circle cx="252" cy="165" r="3" class="t_cyan t_pulse"></circle>
+</g>
+
+
+<!-- Card 2: Data Science & Analytics -->
+<g class="t_item"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.68889;0.71852;1" dur="27s" repeatCount="indefinite"/>
+  <rect class="t_card" x="285" y="148" width="250" height="112" rx="5"/>
+  <path class="t_edge" d="M285 176V153Q285 148 290 148H315"/>
+  <text x="301" y="171" class="t_small t_muted">02 / DATA</text>
+  <text x="301" y="195" class="t_category">DATA SCIENCE &amp; ANALYTICS</text>
+  <path d="M301 205H519" stroke="#17466C"/>
+  <text x="301" y="225" class="t_tech">NumPy · Pandas</text>
+  <text x="301" y="243" class="t_tech">Data Analysis</text>
+  <text x="301" y="257" font-size="11" fill="#42D9FF">Data Cleaning</text>
+  <circle cx="517" cy="165" r="3" class="t_cyan t_pulse"/>
+</g>
+
+<!-- Card 3 -->
+<g class="t_item"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.6963;0.72593;1" dur="27s" repeatCount="indefinite"/>
+<rect class="t_card" x="550" y="148" width="250" height="112" rx="5"></rect>
+<path class="t_edge" d="M550 176V153Q550 148 555 148H580"></path>
+<text x="566" y="171" class="t_small t_muted">03 / INTELLIGENCE</text>
+<text x="566" y="195" class="t_category">AI &amp; MACHINE LEARNING</text>
+<path d="M566 205H784" stroke="#17466C"></path>
+<text x="566" y="229" class="t_tech">Scikit-learn · XGBoost</text>
+<text x="566" y="247" class="t_tech">Predictive Modeling</text>
+<circle cx="782" cy="165" r="3" class="t_cyan t_pulse"></circle>
+</g>
+
+<!-- Card 4 -->
+<g class="t_item"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.7037;0.73333;1" dur="27s" repeatCount="indefinite"/>
+<rect class="t_card" x="20" y="275" width="250" height="112" rx="5"></rect>
+<path class="t_edge" d="M20 303V280Q20 275 25 275H50"></path>
+<text x="36" y="298" class="t_small t_muted">04 / NEURAL</text>
+<text x="36" y="322" class="t_category">DEEP LEARNING</text>
+<path d="M36 332H254" stroke="#17466C"></path>
+<text x="36" y="354" class="t_tech">TensorFlow</text>
+<text x="36" y="374" class="t_tech">CNN Architectures</text>
+<circle cx="252" cy="292" r="3" class="t_cyan t_pulse"></circle>
+</g>
+
+<!-- Card 5 -->
+<g class="t_item"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.71111;0.74074;1" dur="27s" repeatCount="indefinite"/>
+<rect class="t_card" x="285" y="275" width="250" height="112" rx="5"></rect>
+<path class="t_edge" d="M285 303V280Q285 275 290 275H315"></path>
+<text x="301" y="298" class="t_small t_muted">05 / COLLABORATION</text>
+<text x="301" y="322" class="t_category">VERSION CONTROL</text>
+<path d="M301 332H519" stroke="#17466C"></path>
+<text x="301" y="359" class="t_tech">Git</text>
+<text x="390" y="359" class="t_tech">GitHub</text>
+<circle cx="517" cy="292" r="3" class="t_cyan t_pulse"></circle>
+</g>
+
+<!-- Card 6 -->
+<g class="t_item"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.71852;0.74815;1" dur="27s" repeatCount="indefinite"/>
+<rect class="t_card" x="550" y="275" width="250" height="112" rx="5"></rect>
+<path class="t_edge" d="M550 303V280Q550 275 555 275H580"></path>
+<text x="566" y="298" class="t_small t_muted">06 / COMMUNITY</text>
+<text x="566" y="322" class="t_category">PLATFORMS</text>
+<path d="M566 332H784" stroke="#17466C"></path>
+<text x="566" y="359" class="t_tech">Hugging Face</text>
+<circle cx="782" cy="292" r="3" class="t_cyan t_pulse"></circle>
+</g>
+
+<!-- Footer status -->
+<rect x="20" y="402" width="780" height="43" rx="4" fill="#04101F" stroke="#17466C"></rect>
+<text x="35" y="420" class="t_small t_muted">SYSTEM STATUS</text>
+<text x="35" y="435" class="t_small t_cyan">ALL MODULES LOADED</text>
+<rect x="220" y="417" width="110" height="5" rx="2" fill="#153552"></rect>
+<rect x="220" y="417" width="110" height="5" rx="2" fill="url(#t_neon)" class="t_bar"></rect>
+<text x="790" y="429" text-anchor="end" class="t_small t_cyan">READY TO BUILD_</text>
+
+<text x="22" y="472" class="t_small t_muted">LEARN // EXPLORE // BUILD // INNOVATE</text>
+<text x="798" y="472" text-anchor="end" class="t_small t_cyan">F.S. 2026</text>
+
+<!-- Moving scan light -->
+<rect x="0" y="0" width="820" height="2" fill="#42D9FF" opacity=".13" class="t_scan"></rect>
+</svg>
+  </g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiZjdmNGQyZi0yZGFhLTQwM2UtODdlMC1mYzE5ZDdjY2UwYmEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaK49t7qU6hhA4OObJ4B/RQAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplYTU0NDhlMC1hZjFlLTRkMDItYjAyYS0yMDMxZTFmMDdiZmFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoMCkc0L0338b3N9Y4Oe2pAgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggVU66omxj3NDgld5vSgmbExSiGxAkWNGhXt0dAcsBlhukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBAdLYgoIrPer6Hs/yx7y5YAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIO4x1F2Q6LE8Jrq66X+WDO43WQnXO2mYKGl9X72o9T0aZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GV1tZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmJmN2Y0ZDJmLTJkYWEtNDAzZS04N2UwLWZjMTlkN2NjZTBiYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmEzOTlkNThjLTJlMTQtNDk3Yy1iMDE5LWEzZDFhN2NhYzE2MHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBVTrqibGPc0OCV3m9KCZsTFKIbECRY0aFe3R0BywGWG6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggIL5H9HRBTp9Q3CmMiIpR6DWUHYJCdhFnmff1AmhBH3qiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg7uJcgBnobMsGvVTC22zuMnykTTxEtNRkXNJtvz4cn3V0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGKZF9uLjJXG5UVRUkuDm9no196ozBq0nF+Yi5d7jWqy1FRUhzac+/hoLAbhmJjvqgjoa9WgKqtXlseOyibuqoY=</c2pa:manifest></metadata></svg>
