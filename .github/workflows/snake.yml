@@ -2,24 +2,29 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 * * * *"        # هر ساعت یک بار آپدیت می‌شه
+  workflow_dispatch:            # اجرای دستی از تب Actions
   push:
     branches: [main]
 
 permissions:
   contents: write
 
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=#f4a6c0&color_dots=#1b1f33,#3a4482,#6f7fe0,#97a6f5,#d3dbff&color_dot_border=#151829&sizeDotBorderRadius=3
+            dist/github-snake.svg?color_snake=#e0709a&color_dots=#ebedf5,#c5cbf5,#97a6f5,#6f7fe0,#3a4482&color_dot_border=#ffffff&sizeDotBorderRadius=3
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
