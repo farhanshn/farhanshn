@@ -2,8 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 * * * *"        # هر ساعت یک بار آپدیت می‌شه
-  workflow_dispatch:            # اجرای دستی از تب Actions
+    - cron: "0 * * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -19,12 +19,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-dark.svg?color_snake=#f4a6c0&color_dots=#1b1f33,#3a4482,#6f7fe0,#97a6f5,#d3dbff&color_dot_border=#151829&sizeDotBorderRadius=3
             dist/github-snake.svg?color_snake=#e0709a&color_dots=#ebedf5,#c5cbf5,#97a6f5,#6f7fe0,#3a4482&color_dot_border=#ffffff&sizeDotBorderRadius=3
+
+      - name: Generate animated activity graph
+        run: python3 scripts/activity_graph.py
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT: dist/activity-graph.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
